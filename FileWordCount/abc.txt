@@ -1,5 +1,0 @@
-one two three four one two three
-three four five six one two
-three four six seven
-six nive four one
-six eight seven nine ten one
